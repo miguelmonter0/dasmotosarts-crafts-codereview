@@ -7,17 +7,17 @@ h1 {
     text-align:center;
     background-image: url('pattern1.webp');
 }
-#brushes {
+.brushes h2 {
     font-size: 32px;
     color: white;
     background-color: mediumspringgreen;
 }
-#frames {
+.frames h2 {
     font-size: 32px;
     color: white;
     background-color: lightcoral;
 }
-#paint {
+.paint h2 {
     font-size: 32px;
     color: white;
     background-color: skyblue;
@@ -28,6 +28,3 @@ h1 {
 p {
     font-family: Helvetica;
 }
-header {
-    background-image: url("pattern1.webp")
-    }
