@@ -28,3 +28,6 @@ h1 {
 p {
     font-family: Helvetica;
 }
+header {
+    background-image: url("pattern1.webp")
+    }
